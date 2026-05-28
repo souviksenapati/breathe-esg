@@ -19,4 +19,5 @@ export default defineConfig({
     outDir: '../backend/staticfiles/frontend',
     emptyOutDir: true,
   },
+  base: '/static/',
 })
