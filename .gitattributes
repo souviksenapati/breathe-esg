@@ -1,0 +1,15 @@
+# Normalize line endings to LF in the repository
+* text=auto eol=lf
+
+# Force LF for shell scripts (build.sh must have LF to run on Linux/Render)
+*.sh text eol=lf
+Procfile text eol=lf
+
+# Binary files — never touch line endings
+*.png binary
+*.jpg binary
+*.ico binary
+*.woff2 binary
+*.woff binary
+*.ttf binary
+*.csv text eol=lf

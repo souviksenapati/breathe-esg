@@ -1,0 +1,13 @@
+meter_id,facility_name,period_start,period_end,usage,unit,tariff,cost_amount,currency
+MTR-DE01-A,Frankfurt HQ - Building A,2024-01-01,2024-01-31,48250,kWh,HT/NT Mixed,9842.50,EUR
+MTR-DE01-B,Frankfurt HQ - Building B,2024-01-01,2024-01-31,31600,kWh,HT/NT Mixed,6446.40,EUR
+MTR-DE02-PROD,Munich Plant - Production Hall,2024-01-01,2024-01-31,182400,kWh,Industrial Peak,35668.80,EUR
+MTR-DE02-OFF,Munich Plant - Office Wing,2024-01-01,2024-01-31,12800,kWh,Standard Business,2611.20,EUR
+MTR-DE03-WH,Hamburg Warehouse,2024-01-01,2024-01-31,24600,kWh,Off-Peak,4428.00,EUR
+MTR-DE01-A,Frankfurt HQ - Building A,2024-02-01,2024-02-29,44100,kWh,HT/NT Mixed,8996.40,EUR
+MTR-DE01-B,Frankfurt HQ - Building B,2024-02-01,2024-02-29,29800,kWh,HT/NT Mixed,6079.20,EUR
+MTR-DE02-PROD,Munich Plant - Production Hall,2024-02-01,2024-02-29,1.95,MWh,Industrial Peak,38142.00,EUR
+MTR-DE02-OFF,Munich Plant - Office Wing,2024-02-01,2024-02-29,11400,kWh,Standard Business,2325.60,EUR
+MTR-DE03-WH,Hamburg Warehouse,2024-02-01,2024-02-29,22100,kWh,Off-Peak,3978.00,EUR
+MTR-DE01-A,Frankfurt HQ - Building A,2024-03-01,2024-03-31,46800,kWh,HT/NT Mixed,9547.20,EUR
+MTR-DE03-WH,Hamburg Warehouse,2024-03-01,2024-03-31,,kWh,Off-Peak,,EUR

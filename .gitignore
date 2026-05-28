@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pyw
+*.pyc
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+env/
+
+# Secrets / local env
+.env
+.env.local
+.env.*.local
+
+# Django
+*.sqlite3
+db.sqlite3
+backend/media/
+backend/staticfiles/*
+!backend/staticfiles/.gitkeep
+
+# Test / coverage
+.coverage
+htmlcov/
+.pytest_cache/
+coverage.xml
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+npm-debug.log*
+
+# Render
+.render-buildpacks.json
+
+# Assignment private files (do not publish)
+_extracted_assignment_text.txt
+Breathe_ESG_Tech_Intern_Assignment.pdf

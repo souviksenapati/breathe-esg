@@ -1,0 +1,21 @@
+record_type,doc_date,plant_code,sap_doc,material_description,quantity,unit,amount,currency,vendor,po_number,gl_account
+fuel,2024-01-05,DE01,4900012301,Diesel EN590,850,L,,,Shell GmbH,,
+fuel,2024-01-12,DE01,4900012389,Diesel EN590,920,L,,,Shell GmbH,,
+fuel,2024-01-19,DE02,4900012445,Petrol 95,430,L,,,BP Europa SE,,
+fuel,2024-01-26,DE02,4900012512,LPG Autogas,1200,L,,,TotalEnergies SE,,
+fuel,05.02.2024,DE01,4900012601,Diesel EN590,780,L,,,Shell GmbH,,
+fuel,2024-02-14,DE03,4900012688,Diesel EN590,1050,L,,,OMV Deutschland,,
+fuel,2024-02-22,DE01,4900012754,Petrol 95,320,L,,,BP Europa SE,,
+fuel,2024-03-01,DE02,4900012812,Diesel EN590,960,L,,,Shell GmbH,,
+fuel,2024-03-08,DE03,4900012901,HVO100 Biodiesel,500,L,,,Neste Corporation,,
+fuel,2024-03-15,DE01,4900012967,Diesel EN590,1100,L,,,Shell GmbH,,
+procurement,2024-01-08,DE01,4900012310,Office Supplies,,,4250.00,EUR,Staples GmbH,4500067890,740000
+procurement,2024-01-15,DE02,4900012395,Industrial Packaging Materials,,,18600.00,EUR,Smurfit Kappa,4500067912,540100
+procurement,2024-01-22,DE01,4900012461,IT Hardware - Laptops,,,32500.00,EUR,Lenovo GmbH,4500067934,740100
+procurement,2024-01-29,DE03,4900012528,Chemical Cleaning Agents,,,6800.00,EUR,Ecolab GmbH,4500067956,540200
+procurement,14.02.2024,DE01,4900012615,Maintenance Services,,,12400.00,EUR,Bilfinger SE,4500067978,620000
+procurement,2024-02-20,DE02,4900012701,Raw Steel (Structural),,,87500.00,EUR,ThyssenKrupp AG,4500068001,541000
+procurement,2024-02-27,DE03,4900012767,Safety Equipment,,,3200.00,EUR,3M Deutschland,4500068023,740200
+procurement,2024-03-05,DE01,4900012822,Freight Logistics,,,22000.00,EUR,DHL Supply Chain,4500068045,620100
+procurement,2024-03-12,DE02,4900012912,Printing Paper (A4),,,1850.00,EUR,Papier Mettler,4500068067,740000
+procurement,2024-03-19,DE01,4900012978,Catering Services - Cafeteria,,,8900.00,EUR,Eurest GmbH,4500068089,620200

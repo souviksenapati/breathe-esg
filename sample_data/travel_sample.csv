@@ -1,0 +1,16 @@
+trip_id,trip_type,booked_date,traveler,origin,destination,distance,distance_unit,cost_amount,currency,vendor,ticket_class,description
+TRP-2024-001,flight,2024-01-08,Emma Müller,FRA,JFK,6200,km,1840.00,EUR,Lufthansa,Business,Annual Strategy Summit NYC
+TRP-2024-002,flight,2024-01-08,Lucas Becker,FRA,JFK,6200,km,620.00,EUR,Lufthansa,Economy,Annual Strategy Summit NYC
+TRP-2024-003,hotel,2024-01-09,Emma Müller,,,3,,450.00,EUR,Marriott Times Square,,New York hotel - 3 nights
+TRP-2024-004,hotel,2024-01-09,Lucas Becker,,,2,,290.00,EUR,Marriott Times Square,,New York hotel - 2 nights
+TRP-2024-005,ground,2024-01-08,Emma Müller,,,88,km,125.00,EUR,Sixt Rent a Car,,Airport transfer + city transfers
+TRP-2024-006,flight,2024-01-22,Hannah Schmidt,MUC,LHR,,km,410.00,EUR,British Airways,Economy,Client meeting London
+TRP-2024-007,hotel,2024-01-22,Hannah Schmidt,,,1,,285.00,EUR,Premier Inn,,London hotel - 1 night
+TRP-2024-008,ground,2024-01-22,Hannah Schmidt,,,45,km,62.00,EUR,Uber,,London ground transport
+TRP-2024-009,flight,2024-02-05,Max Weber,HAM,DXB,5840,km,1220.00,EUR,Emirates,Economy,MENA Sales Conference
+TRP-2024-010,flight,2024-02-05,Sophia Hartmann,HAM,DXB,5840,km,3200.00,EUR,Emirates,Business,MENA Sales Conference
+TRP-2024-011,hotel,2024-02-06,Max Weber,,,4,,720.00,EUR,Hilton Dubai,,Dubai hotel - 4 nights
+TRP-2024-012,hotel,2024-02-06,Sophia Hartmann,,,4,,720.00,EUR,Hilton Dubai,,Dubai hotel - 4 nights
+TRP-2024-013,flight,2024-02-19,Lucas Becker,BER,CDG,1050,km,280.00,EUR,Air France,Economy,Paris supplier audit
+TRP-2024-014,ground,2024-02-19,Lucas Becker,,,32,km,45.00,EUR,Bolt,,Paris ground transport
+TRP-2024-015,flight,2024-03-04,Emma Müller,FRA,SIN,,km,2890.00,EUR,Singapore Airlines,Business,APAC partner summit
