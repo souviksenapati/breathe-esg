@@ -109,6 +109,7 @@ class IngestionJobViewSet(TenantScopedQuerysetMixin, viewsets.ReadOnlyModelViewS
                 after={"source_type": source_type, "filename": upload.name},
             )
 
+        upload.seek(0)
         decoded = upload.read().decode("utf-8-sig", errors="replace")
         reader = csv.DictReader(io.StringIO(decoded))
         rows = list(reader)

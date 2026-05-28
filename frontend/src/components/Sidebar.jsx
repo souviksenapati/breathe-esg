@@ -44,15 +44,6 @@ export default function Sidebar() {
 
         <div className="nav-label" style={{ marginTop: 'auto' }}>Resources</div>
         <a
-          href="https://github.com"
-          target="_blank"
-          rel="noreferrer"
-          className="nav-link"
-        >
-          <span className="nav-icon">📁</span>
-          <span>GitHub Repo</span>
-        </a>
-        <a
           href="/api/"
           target="_blank"
           rel="noreferrer"
